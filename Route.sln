@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningRoutes", "DefiningR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attributes", "Attributes\Attributes.csproj", "{3B807BB9-B822-44FD-91EE-CEC0F16564B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Areas", "Areas\Areas.csproj", "{563DF3C3-789C-4623-A8A2-013DF920BAF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Areas", "Areas\Areas.csproj", "{563DF3C3-789C-4623-A8A2-013DF920BAF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
